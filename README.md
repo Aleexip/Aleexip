@@ -34,7 +34,6 @@
 
 ## 💡 Projects I’m working on:
 - `CPDLC` – a custom **Controller–Pilot Data Link Communications** system with a graphical interface for sending commands to aircraft entities
-- `Mini Dropbox` – a simple cloud storage app using MariaDB
 - `Portfolio Manager` – an investment tracker for dividend growth investing
 
 ---
